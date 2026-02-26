@@ -17,7 +17,7 @@ TBA
 ## Installation
 Clone and install the [IMGTB framework](https://github.com/kinit-sk/IMGTB), activate the conda environment.
    ```
-   git clone https://github.com/michalspiegel/IMGTB.git
+   git clone https://github.com/kinit-sk/IMGTB.git
    cd IMGTB
    conda env create -f environment.yaml
    conda activate IMGTB
